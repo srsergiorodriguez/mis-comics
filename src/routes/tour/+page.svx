@@ -25,7 +25,7 @@ Así se mostrará una imagen que, si se cliquea, te llevará al elemento de la c
 
 Así:
 
-<ItemPreview pid="AdriaenCollaert" title="Por Adriaen Collaert" />
+<ItemPreview pid="elefantesyji_lp4ufc0677" title="Cómic con el colectivo 4mesas" />
 
 También puedes usar urls de imágenes externas con normalidad en el formato Markdown.
 

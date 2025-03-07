@@ -10,9 +10,9 @@
   :global(:root){
     --stroke: black; /* Font color */
     --fill: #fdfcfa; /* Background color */
-    --accent1: #c9e2ef; /* Main color */
-    --accent2: #0b456c; /* Higlights color */
-    --mainfont: "Lato", sans-serif;
+    --accent1: #c9efe5; /* Main color */
+    --accent2: #0b6c3c; /* Higlights color */
+    --mainfont: "Arial", sans-serif;
     --headerfont: "Lato", sans-serif;
     font-family: var(--mainfont);
   }
